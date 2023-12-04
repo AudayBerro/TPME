@@ -13,7 +13,7 @@ Contains datasets and code for the paper "A study of errors in Transformer-based
 This folder contains the code to extract seed utterances from raw SNIPS JSON snippets retrieved from the [SNIPS][snips] dataset (described in Section 2.2).
 
 # Generated Paraphrases
-This folder contains the generated paraphrases described in Section 2.4 of our paper. There are 20876 generated paraphrases for 598 seed utterances. The generated paraphrases are grouped into 8 datasets based on the model used to generate them and the intent of the seed utterances.
+This folder contains the generated paraphrases described in Section 2.4 of our paper. There are 22864 generated paraphrases for 598 seed utterances. The generated paraphrases are grouped into 8 datasets based on the model used to generate them and the intent of the seed utterances.
 
 # Appendices
 This folder contains two annexes mentioned in the paper:
