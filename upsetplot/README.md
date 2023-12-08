@@ -26,7 +26,7 @@ Feel free to explore and utilize the provided code and data to generate your UpS
 
 ## Generating UpSet Plot for TPME using Intervene
 
-To obtain the [UpSet_plot_Intervene.pdf](https://github.com/AudayBerro/TPME/blob/master/UpSet_plot_Intervene.pdf), use the `convert_upset_format.py` script provided in this repository. The script is designed to transform the *TPME_labels_only.txt* dataset, which exclusively contains error labels extracted from the *error_category* columns in the [TPME.csv](https://github.com/AudayBerro/TPME/blob/master/TPME.csv) dataset.
+To obtain the [UpSet_plot_Intervene](https://github.com/AudayBerro/TPME/blob/master/UpSet_plot_Intervene.pdf), use the `convert_upset_format.py` script provided in this repository. The script is designed to transform the *TPME_labels_only.txt* dataset, which exclusively contains error labels extracted from the *error_category* columns in the [TPME.csv](https://github.com/AudayBerro/TPME/blob/master/TPME.csv) dataset.
 
 The purpose of `convert_upset_format.py` is to prepare the data in a suitable format for visualization on the [Intervene](https://asntech.shinyapps.io/intervene/) platform.
 
