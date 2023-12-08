@@ -1,0 +1,998 @@
+correct
+correct
+correct
+grammar
+correct
+correct
+correct
+correct
+correct
+slot addition
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+semantic
+correct
+correct
+semantic, wordy, slot addition
+duplication
+duplication
+slot addition
+correct
+semantic, wordy
+answering
+correct
+correct
+redundant
+grammar
+grammar
+correct
+correct
+correct
+slot addition
+slot addition
+slot addition
+correct
+correct
+semantic
+correct
+duplication
+duplication
+duplication
+duplication
+correct
+correct
+slot addition
+correct
+correct
+duplication
+duplication
+duplication
+correct
+slot omission, wrong slot
+slot addition
+correct
+wrong slot
+wrong slot
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+correct
+semantic
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+grammar
+slot addition
+answering, punctuation
+slot addition
+correct
+correct
+correct
+semantic, wordy, slot addition
+correct
+correct
+semantic, wordy
+correct
+slot addition
+correct
+slot addition
+slot addition
+slot addition
+slot addition
+correct
+slot addition
+slot addition
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+correct
+correct
+wordy
+wordy
+duplication
+duplication
+duplication
+duplication
+correct
+correct
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+grammar
+grammar
+semantic
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+slot addition
+semantic, slot addition
+duplication
+correct
+correct
+slot addition
+wrong slot
+correct
+wrong slot
+slot addition
+wrong slot
+correct
+slot omission
+semantic, slot omission
+correct
+correct
+correct
+correct
+duplication
+correct
+correct
+correct
+grammar, slot omission
+grammar
+spelling, grammar, slot omission
+slot omission
+slot omission
+grammar
+grammar
+spelling
+duplication
+slot omission
+slot omission
+spelling
+duplication
+duplication
+duplication
+slot omission
+slot omission
+correct
+spelling, wrong slot
+duplication, punctuation
+grammar, homonym, wordy
+correct
+wordy
+correct
+questioning
+semantic
+correct
+semantic, questioning
+answering
+wordy, slot omission
+slot addition
+grammar, slot omission, slot addition
+correct
+grammar, slot omission
+duplication
+duplication
+slot omission
+slot omission, slot addition
+punctuation
+duplication
+duplication
+duplication
+correct
+slot omission
+correct
+correct
+correct
+grammar
+correct
+correct
+semantic
+semantic, wordy
+duplication
+duplication
+duplication
+duplication
+semantic, wordy
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+semantic
+correct
+correct
+wordy
+wordy
+duplication
+duplication
+duplication
+duplication
+duplication
+correct
+slot addition
+correct
+correct
+correct
+slot addition 
+correct
+correct
+correct
+correct
+punctuation
+semantic, wordy
+correct
+slot addition
+slot addition
+correct
+correct
+slot addition
+correct
+correct
+correct
+wordy, slot addition
+slot omission
+slot omission
+wordy
+correct
+slot omission
+grammar
+grammar
+grammar
+correct
+slot omission, wrong slot
+semantic
+correct
+correct
+slot addition
+duplication
+duplication
+duplication
+correct
+correct
+semantic, slot addition, wordy
+slot addition
+slot addition
+duplication
+semantic
+slot addition
+slot addition
+slot addition
+correct
+slot addition
+wordy
+correct
+duplication
+spelling, duplication
+duplication
+spelling, duplication
+spelling, duplication
+spelling, duplication
+duplication
+duplication
+correct
+correct
+semantic
+semantic, wordy
+slot omission
+correct
+correct
+semantic
+correct
+duplication
+homonym, wrong slot
+wrong slot
+wrong slot
+slot addition
+slot addition
+semantic, spelling
+slot addition
+slot addition
+slot addition
+semantic
+wrong slot
+semantic
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+semantic
+correct
+correct
+correct
+correct
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling, slot addition
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+slot addition
+slot addition
+spelling
+duplication
+duplication
+duplication
+correct
+spelling
+correct
+slot omission
+spelling
+slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+semantic, wordy
+correct
+slot omission
+semantic, incoherent, slot omission
+correct
+correct
+redundant
+spelling
+wordy
+duplication
+duplication
+correct
+answering
+answering, acronym
+correct
+correct
+correct
+wrong slot
+wordy, slot omission
+correct
+duplication
+duplication
+correct
+semantic, wrong slot
+semantic
+duplication
+duplication
+duplication
+slot omission
+correct
+wordy, slot omission
+incoherent, wordy, slot omission
+slot omission
+slot omission
+answering
+redundant
+answering
+semantic, spelling, incoherent, answering
+semantic
+wrong slot
+semantic
+answering
+correct
+correct
+correct
+answering, slot omission, questioning
+slot omission
+slot omission
+slot omission
+incoherent, wordy, slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+correct
+homonym
+correct
+correct
+slot addition
+correct
+duplication
+duplication
+duplication
+slot addition
+correct
+correct
+correct
+slot omission
+spelling
+duplication
+duplication
+duplication
+correct
+semantic
+correct
+correct
+questioning
+correct
+duplication
+slot omission
+semantic
+semantic
+correct
+semantic
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+correct
+wordy
+correct
+correct
+correct
+slot addition
+punctuation
+correct
+correct
+correct
+wordy
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+slot addition
+slot addition
+slot addition
+semantic
+correct
+semantic
+correct
+duplication
+duplication
+duplication
+spelling
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+correct
+semantic
+correct
+slot addition
+slot addition
+correct
+correct
+questioning
+correct
+correct
+correct
+correct
+correct
+slot addition, wordy
+correct
+grammar, redundant, incoherent, slot addition
+duplication
+semantic, redundant, punctuation, questioning
+answering, wordy
+answering, wordy
+slot addition
+semantic, questioning
+correct
+answering, wordy
+slot addition
+slot addition
+answering, wordy
+slot addition
+spelling, slot addition, punctuation
+slot addition
+answering, wordy
+incoherent, wordy, punctuation
+duplication
+incoherent, wordy
+answering
+incoherent, wordy, punctuation
+grammar, wrong slot
+correct
+correct
+grammar, redundant, slot addition
+grammar, slot addition
+grammar, answering, wordy
+redundant, incoherent, wordy
+spelling
+redundant, slot addition, wordy
+slot omission
+slot addition
+spelling
+spelling
+correct
+correct
+slot omission, wrong slot, slot addition
+spelling, slot addition
+semantic, spelling, incoherent, wordy
+spelling, incoherent, wordy
+spelling, duplication
+spelling, duplication
+spelling, duplication, punctuation
+spelling, questioning
+spelling, incoherent, wordy, slot omission
+spelling
+semantic, spelling, redundant, incoherent, questioning
+semantic, homonym
+redundant
+spelling, redundant, answering, wordy, punctuation
+spelling, redundant, incoherent, questioning
+redundant, incoherent, wordy
+incoherent, answering, wordy
+duplication, punctuation
+duplication
+grammar
+semantic, questioning
+grammar, spelling, incoherent
+homonym, wordy, punctuation
+semantic, slot omission
+semantic, redundant, homonym, incoherent, wordy, slot omission
+spelling, homonym, answering, wrong slot
+grammar, redundant, homonym
+answering, slot omission
+semantic, slot omission, wrong slot
+spelling, redundant, slot addition
+answering, incoherent
+semantic
+spelling, answering, wordy
+spelling, redundant
+spelling, wordy
+spelling, wordy, punctuation
+spelling
+correct
+semantic, spelling
+spelling
+spelling, wordy
+spelling, incoherent, wordy
+semantic, spelling
+semantic, spelling, answering, wordy, slot addition
+semantic, spelling, slot omission
+spelling, duplication
+spelling, duplication
+spelling, duplication, punctuation
+spelling, redundant, incoherent, wordy, punctuation
+semantic, incoherent, wordy, slot addition
+semantic, spelling, grammar, redundant, incoherent, wordy
+semantic, spelling, questioning
+semantic, questioning
+punctuation
+correct
+semantic, answering, slot addition
+correct
+punctuation
+slot addition
+correct
+correct
+slot addition
+correct
+correct
+slot addition, wordy, punctuation
+punctuation
+semantic, answering, incoherent, wordy
+punctuation
+spelling, redundant, answering, incoherent, wordy
+answering, wordy
+answering
+wordy, slot addition
+incoherent, wordy
+duplication, punctuation
+duplication, punctuation
+answering, wordy
+punctuation
+answering, wordy
+semantic, wordy
+spelling, redundant
+spelling, answering, incoherent, wordy
+correct
+redundant, punctuation
+punctuation
+semantic, slot omission
+correct
+correct
+semantic, slot omission
+correct
+correct
+correct
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+incoherent, answering, wordy
+spelling, grammar, redundant, homonym, incoherent, wrong slot 
+grammar, duplication
+grammar, duplication
+slot omission, wrong slot, slot addition
+incoherent, slot omission
+grammar, incoherent, answering, slot omission, slot addition
+grammar, redundant, answering, slot addition
+grammar, redundant, answering, wordy
+incoherent, slot addition, wordy
+duplication, punctuation
+duplication, punctuation
+duplication, punctuation
+duplication
+wordy, punctuation
+grammar, answering, incoherent, wordy, punctuation 
+slot addition
+wordy
+slot addition
+correct
+duplication
+duplication
+duplication
+duplication
+duplication
+redundant
+wordy, punctuation
+redundant, answering, incoherent, wordy
+semantic
+spelling, grammar, slot addition, punctuation
+semantic, spelling, wordy
+spelling
+spelling, answering, wrong slot
+spelling, redundant, answering
+spelling, wordy
+spelling, grammar, answering
+spelling, grammar, duplication, punctuation
+spelling, grammar, duplication
+semantic, spelling, redundant 
+grammar, duplication, punctuation
+grammar, duplication, punctuation
+grammar, duplication, punctuation
+grammar, duplication, punctuation
+grammar, duplication
+grammar, punctuation
+grammar, punctuation
+grammar, slot addition
+grammar, slot addition
+grammar, slot addition
+grammar, duplication
+grammar, duplication, punctuation
+grammar, duplication
+grammar, duplication
+grammar, duplication
+grammar, slot addition
+grammar, slot addition
+semantic, grammar, punctuation
+semantic, wrong slot, slot addition
+grammar
+redundant, wordy
+correct
+duplication, punctuation
+semantic, questioning
+questioning
+incoherent, wordy
+grammar, redundant, slot addition, punctuation
+grammar
+semantic
+correct
+semantic
+duplication, punctuation
+duplication, punctuation
+duplication, punctuation
+duplication, punctuation
+duplication, punctuation
+duplication, punctuation
+duplication
+slot addition
+correct
+grammar
+grammar
+grammar, answering, punctuation
+grammar, slot addition, punctuation
+grammar, punctuation
+grammar, answering, wordy
+grammar, duplication, punctuation
+grammar, duplication, punctuation
+grammar, slot addition, wordy, punctuation
+grammar, homonym, answering, wrong slot, slot addition
+spelling, wordy, slot addition
+spelling, duplication
+spelling, duplication
+spelling, duplication
+spelling, duplication, punctuation
+spelling, duplication
+spelling, redundant
+spelling, answering, answering, wordy
+spelling, questioning
+spelling, punctuation
+grammar, duplication
+grammar, duplication
+grammar, duplication
+grammar, duplication
+grammar, wordy, punctuation
+grammar, answering
+grammar, answering, wordy
+spelling, answering, wordy
+semantic, grammar, wordy
+semantic, wordy, punctuation
+wordy
+wordy
+wordy
+duplication
+duplication
+duplication
+duplication, punctuation
+correct
+semantic, punctuation, questioning
+semantic, spelling, wordy
+semantic, questioning
+correct
+semantic, grammar
+correct
+semantic, spelling, grammar, punctuation
+correct
+semantic
+questioning
+questioning
+questioning
+incoherent, wordy
+duplication
+duplication, punctuation
+duplication
+duplication, punctuation
+duplication, punctuation
+duplication
+slot addition
+slot addition, punctuation
+homonym, slot addition, punctuation
+questioning
+semantic, questioning
+semantic
+slot addition
+wordy, slot addition 
+questioning
+questioning
+semantic, questioning 
+semantic, wordy, questioning
+wordy, punctuation
+slot omission, slot addition
+spelling, slot omission
+grammar, slot omission, slot addition, punctuation
+redundant
+slot omission, punctuation
+answering
+slot omission
+redundant, slot omission, slot addition
+questioning
+correct
+duplication, spelling
+duplication, spelling
+duplication, spelling, punctuation
+duplication, spelling
+spelling, wordy
+spelling, redundant, punctuation, questioning
+spelling, wordy
+spelling, questioning
+wordy, questioning
+spelling, questioning
+duplication, punctuation
+duplication, punctuation
+duplication, punctuation
+duplication, punctuation
+semantic, grammar, questioning
+grammar, incoherent, slot addition, wordy
+spelling, grammar, punctuation
+grammar, punctuation
+redundant
+punctuation
+wordy
+wordy
+wordy
+wrong slot, slot addition
+wordy
+questioning
+answering
+wordy
+questioning
+wordy, punctuation
+spelling, grammar, wordy
+grammar, redundant
+redundant, answering
+grammar
+grammar, punctuation
+answering, punctuation
+semantic, incoherent
+grammar, slot addition, punctuation
+grammar, duplication, punctuation
+grammar, duplication, punctuation
+answering
+punctuation
+wrong slot, wordy
+redundant, incoherent, wordy, wrong slot
+redundant, wrong slot, punctuation
+redundant, punctuation
+wrong slot, punctuation
+incoherent, wordy
+semantic, spelling, grammar
+answering, slot addition
+semantic, slot omission, punctuation
+answering, punctuation
+semantic, punctuation
+semantic
+duplication
+redundant, wordy, slot addition
+answering, questioning
+semantic, punctuation
+grammar, punctuation
+redundant, answering, wordy, punctuation
+correct
+duplication, punctuation
+punctuation
+answering
+correct
+wordy
+answering
+answering
+wordy, slot addition
+wordy
+spelling, grammar
+spelling, wordy
+spelling, duplication
+spelling, duplication
+spelling, duplication
+spelling, homonym
+spelling, incoherent
+spelling, redundant, wordy
+spelling, questioning
+spelling, answering, punctuation
+slot addition
+spelling, slot addition
+spelling
+spelling, redundant
+spelling, redundant, wordy
+spelling, redundant, answering
+spelling
+spelling, redundant, wordy
+spelling, redundant, wordy
+spelling, answering, punctuation
+grammar
+grammar, punctuation
+correct
+grammar, questioning
+slot addition, punctuation
+grammar
+grammar
+grammar, redundant, punctuation
+grammar, spelling, questioning
+correct
+duplication, punctuation
+duplication, punctuation
+semantic
+correct
+slot addition
+wordy
+semantic, grammar, redundant, wordy
+incoherent, wordy
+wordy, punctuation
+slot addition, answering
+spelling, duplication, punctuation
+spelling, duplication
+spelling, duplication
+spelling, duplication, punctuation
+spelling, duplication, punctuation
+spelling, duplication
+spelling, duplication, punctuation
+slot addition
+spelling, wordy, slot addition
+spelling, wordy, slot addition
+grammar, wordy
+grammar, answering
+duplication, punctuation
+grammar, questioning
+spelling, grammar, answering, wrong slot, slot addition
+grammar, answering
+grammar, wordy, slot addition
+grammar, answering, slot addition
+semantic
+spelling, grammar, answering, wrong slot
+correct
+redundant, punctuation
+spelling, grammar, punctuation
+spelling, grammar, punctuation
+spelling, grammar, punctuation
+correct
+redundant
+grammar, redundant, incoherent
+incoherent, wordy, punctuation
+redundant, punctuation
+correct
+correct
+redundant
+duplication
+duplication
+spelling, slot addition
+spelling, grammar, redundant, slot addition
+questioning
+spelling, grammar, answering
+grammar
+wrong slot, slot addition, punctuation
+wrong slot, punctuation
+redundant
+wrong slot, punctuation
+wrong slot, punctuation
+wrong slot, punctuation
+wrong slot, punctuation
+spelling, redundant, wordy
+punctuation
+duplication, punctuation
+answering
+grammar,  wordy, slot addition
+semantic, slot omission, wrong slot, slot addition
+wrong slot, wordy, slot addition
+semantic, wrong slot
+answering, wordy, slot addition
+semantic, spelling, wrong slot, slot addition
+wrong slot, slot addition
+wrong slot, punctuation

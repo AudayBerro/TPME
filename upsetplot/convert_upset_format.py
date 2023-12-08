@@ -24,10 +24,10 @@ import sys
       semantic, spelling, grammar, redundant, duplication, homonym, answering, incoherent, wordy, acronym, slot omission, wrong slot, slot addition, punctuation, questioning
 
 
-    run the script:  python3 convert_upset_format.py -r TPME_labels_only.txt
+    run the script:  python3 convert_upset_format.py -r TPME_labels_only.txt -o upset_data.csv
 """
 
-def normalize_data(filename):
+def normalize_data(filename, output_file):
     """
         This function convert raw txt file to UpSet binary data format.
         :param filename: path to the file containing the raw data. A file with txt extension.
@@ -55,6 +55,7 @@ def normalize_data(filename):
     }
 
     data = list()
+    unique_l = set()
     
     with open( filename , 'r') as raw_data:
 
@@ -92,13 +93,15 @@ def normalize_data(filename):
         "questioning"]
     
     
+    print(f"List of {len(unique_l)} labels in {filename}:\n {unique_l}")
     df = pd.DataFrame( data, columns = columns, index = None)
-    df.to_csv( f'./upset_data.csv' , sep=',', encoding='utf-8', index=False)
+    df.to_csv( f"./UpsetBinaryForamtDataForInterven/{output_file}" , sep=',', encoding='utf-8', index=False)
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='raw text file to convert in UpSet-Plot compatible input format')
     parser.add_argument('-r', '--raw', help='text file containing the raw data: labels separated by comma.', required=True)
+    parser.add_argument('-o', '--output', help='Specify the name of the dataframe for saving.', default='./upset_data.csv')
 
     args = parser.parse_args()
 
-    normalize_data(args.raw)
+    normalize_data(args.raw, args.output)

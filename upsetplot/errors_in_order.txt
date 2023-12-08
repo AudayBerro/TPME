@@ -1,0 +1,130 @@
+correct
+correct
+correct
+correct
+correct
+correct
+spelling, homonym, wrong slot
+correct
+spelling, incoherent, slot omission, punctuation
+spelling, incoherent, slot omission, punctuation
+correct
+correct
+correct
+wrong slot
+correct
+correct
+wrong slot
+wrong slot
+correct
+wordy, wrong slot
+correct
+correct
+correct
+correct
+correct
+correct
+acronym, slot omission
+spelling, grammar, acronym
+semantic, grammar, incoherent, acronym, slot omission
+semantic, spelling, grammar, incoherent, slot omission, punctuation
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+homonym, wrong slot
+spelling, grammar, homonym, wordy, wrong slot
+slot omission, slot addition
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling, incoherent, wrong slot
+spelling, grammar, wrong slot
+correct
+grammar
+correct
+correct
+correct
+correct
+correct
+grammar
+correct
+correct
+spelling
+spelling
+spelling
+spelling
+spelling
+wrong slot
+grammar, wrong slot
+wrong slot
+correct
+wrong slot
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+spelling, homonym, wrong slot, punctuation
+spelling
+spelling, homonym
+correct
+correct
+correct
+correct
+correct
+correct
+homonym, wrong slot, slot omission
+semantic,  redundant, wordy, slot omission
+spelling, slot addition
+semantic, slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+grammar
+spelling, homonym, wrong slot
+incoherent, wordy, slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+redundant
+slot omission
+spelling
+correct
+correct
+correct
+correct
+correct
+spelling
+spelling, answering, slot omission
+spelling, wrong slot
+spelling, incoherent, slot omission
+slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling, homonym, wrong slot
+spelling, homonym, wrong slot
+spelling, homonym, wrong slot

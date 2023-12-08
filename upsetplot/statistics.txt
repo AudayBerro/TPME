@@ -1,0 +1,29 @@
+| Dataset       | Correct | Total Paraphrases | Percentage of Correct over Generation |
+|---------------|---------|-------------------|---------------------------------------|
+| NL_diverse    | 586     | 930               | 63%                                   |
+| GPT           | 659     | 1092              | 60.34%                                |
+| T5            | 251     | 998               | 25.1%                                 |
+| Protaugment   | 270     | 1530              | 17.64%                                 |
+| Prism         | 592     | 1330              | 44.5%                                 |
+
+
+
+Exclusively labeled as duplicates:
+| Dataset      | Duplicates | Total Paraphrases | Percentage of Duplicates over Generation|
+|--------------|------------|-------------------|-----------------------------------------|
+| NL_diverse   | 65         | 930               | 6.9%                                   |
+| GPT          | 0          | 1092              | 0.0%                                   |
+| T5           | 137        | 998               | 13.7%                                  |
+| Protaugment  | 517        | 1530              | 33.7%                                  |
+| Prism        | 125        | 1330              | 9.4%                                   |
+
+
+duplicates with other co-occurence in total:
+| Dataset      | Duplicates | Total Paraphrases | Percentage of Duplicates over Generation|
+|--------------|------------|-------------------|-----------------------------------------|
+| NL_diverse   | 84         | 930               | 9.0%                                   |
+| GPT          | 0          | 1092              | 0.0%                                    |
+| T5           | 215        | 998               | 21.5%                                   |
+| Protaugment  | 781        | 1530              | 51.0%                                  |
+| Prism        | 134        | 1330              | 10.0%                                  |
+

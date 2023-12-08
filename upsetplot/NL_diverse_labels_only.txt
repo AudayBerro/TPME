@@ -1,0 +1,930 @@
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+semantic, wrong slot
+homonym
+homonym
+homonym
+duplication
+duplication
+correct
+correct
+correct
+grammar, slot omission
+duplication
+correct
+slot omission
+slot omission
+correct
+slot omission
+correct
+correct
+correct
+correct
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+correct
+correct
+spelling
+correct
+spelling
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+spelling
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+duplication, redundant
+duplication, redundant
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+grammar
+correct
+correct
+correct
+correct
+correct
+duplication
+correct
+correct
+correct
+semantic, wrong slot
+correct
+correct
+semantic, wrong slot
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+spelling, duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+slot omission
+correct
+correct
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+correct
+spelling
+spelling
+correct
+correct
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+grammar
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+slot omission
+slot omission
+slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+correct
+correct
+correct
+correct
+slot addition
+homonym
+homonym
+homonym
+homonym
+homonym
+homonym
+correct
+correct
+correct
+correct
+correct
+duplication
+spelling, duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+correct
+correct
+spelling, redundant
+grammar, redundant
+redundant
+correct
+correct
+correct
+grammar, redundant
+spelling, redundant
+redundant
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+spelling
+spelling
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+spelling, duplication
+correct
+spelling
+correct
+correct
+correct
+correct
+duplication
+correct
+slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+correct
+correct
+spelling
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+correct
+correct
+spelling
+spelling
+spelling
+spelling
+correct
+duplication
+duplication
+spelling, duplication
+duplication
+correct
+correct
+correct
+grammar
+correct
+correct
+correct
+wrong slot
+wrong slot
+wrong slot
+correct
+grammar
+correct
+correct
+correct
+correct
+spelling
+spelling
+spelling
+spelling
+spelling
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+spelling, duplication
+spelling, duplication
+spelling, duplication
+correct
+correct
+correct
+correct
+grammar
+answering
+spelling, answering
+spelling, answering
+answering
+answering
+spelling, answering
+grammar, answering
+grammar, answering
+grammar, answering
+answering
+spelling, duplication
+duplication
+spelling, duplication
+duplication
+spelling, duplication
+correct
+spelling
+spelling
+correct
+spelling, grammar
+duplication
+duplication
+correct
+correct
+correct
+correct
+spelling
+spelling
+correct
+correct
+correct
+correct
+correct
+correct
+homonym, wrong slot
+homonym, wrong slot
+homonym, wrong slot
+homonym, wrong slot
+correct
+correct
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+semantic, spelling
+semantic
+semantic
+semantic
+semantic
+semantic
+semantic
+semantic, spelling
+semantic
+semantic
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+correct
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+spelling, redundant
+spelling, redundant
+correct
+spelling
+spelling, redundant
+spelling, redundant
+spelling, redundant
+correct
+redundant
+grammar, redundant
+correct
+correct
+duplication
+duplication
+spelling
+spelling
+correct
+correct
+spelling
+correct
+spelling
+correct
+spelling
+correct
+spelling
+correct
+spelling
+spelling
+spelling
+spelling
+homonym
+homonym
+homonym
+spelling, homonym
+homonym
+homonym
+spelling, homonym
+homonym
+semantic, homonym, incoherent
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+spelling
+duplication
+duplication
+spelling, duplication
+spelling
+spelling
+correct
+correct
+spelling
+correct
+spelling
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+punctuation
+spelling, redundant
+redundant
+grammar, redundant
+correct
+slot omission
+redundant
+correct
+correct
+correct
+correct
+punctuation
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+grammar
+correct
+correct
+spelling
+grammar
+correct
+grammar
+duplication
+spelling, duplication
+correct
+semantic
+semantic, spelling
+correct
+correct
+wrong slot
+wrong slot
+correct
+wordy, wrong slot
+wordy, wrong slot
+wordy, wrong slot
+wordy, wrong slot
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+slot omission
+slot omission
+slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+spelling
+spelling
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+spelling
+correct
+correct
+spelling
+correct
+correct
+spelling
+correct
+correct
+spelling
+slot addition
+correct
+slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+slot addition
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+duplication, punctuation
+spelling, duplication
+duplication
+duplication
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+semantic
+semantic
+semantic
+semantic
+correct
+correct
+correct
+semantic, spelling
+semantic
+semantic, spelling
+semantic, spelling
+semantic
+semantic
+semantic, spelling
+semantic
+semantic, spelling
+semantic, spelling
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+correct
+duplication
+correct
+correct
+correct
+correct
+homonym
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+slot omission
+spelling, slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+correct
+correct
+correct
+semantic
+semantic
+correct
+spelling
+correct
+correct
+semantic
+semantic
+duplication
+correct
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+duplication
+correct
+spelling
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+homonym
+homonym
+homonym
+homonym
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+slot omission
+slot omission
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+duplication
+duplication
+spelling, duplication
+correct
+homonym
+homonym
+homonym
+correct
+correct
+answering
+semantic
+semantic
+semantic
+semantic
+spelling
+spelling, punctuation
+semantic
+semantic
+semantic
+correct
+correct
+correct
+duplication
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+duplication
+spelling, duplication
+spelling, duplication
+correct
+correct
+correct
+correct
+slot addition
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+spelling
+correct
+correct
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+incoherent
+semantic, incoherent
