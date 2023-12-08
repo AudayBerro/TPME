@@ -1,5 +1,5 @@
 # About
-Contains datasets and code for the paper "A study of errors in Transformer-based Paraphrase Generation models". 
+Contains datasets and code for the paper "Error types in Transformer-based Paraphrasing Models: A Taxonomy, Paraphrase Annotation Model and Dataset". 
 
 ## Table of Contents
 - [SNIPS Folder](#snips-folder)
