@@ -15,23 +15,28 @@ The [Intervene software](https://asntech.shinyapps.io/intervene/) is employed to
 Feel free to explore and utilize the provided code and data to generate your UpSet plot and gain valuable insights into the error labeling patterns in the TPME.csv dataset.
 
 ## Table of Contents
-- TPME_labels_only.txt
-- convert_upset_format.py
-- upset_data.csv
+- 📁 UpsetBinaryForamtDataForInterven
+- 📁 UpsetPlotWithIntervene
+- 📝 TPME_labels_only.txt
+- 📝 errors_in_order.txt
+- 🐍 compute_error_rate_order.py
+- 🐍 convert_upset_format.py
+- 📊 upset_data.csv
 
 
-## Generating UpSet Plot using Intervene
+## Generating UpSet Plot for TPME using Intervene
 
 To obtain the [UpSet_plot_Intervene.pdf](https://github.com/AudayBerro/TPME/blob/master/UpSet_plot_Intervene.pdf), use the `convert_upset_format.py` script provided in this repository. The script is designed to transform the *TPME_labels_only.txt* dataset, which exclusively contains error labels extracted from the *error_category* columns in the [TPME.csv](https://github.com/AudayBerro/TPME/blob/master/TPME.csv) dataset.
 
 The purpose of `convert_upset_format.py` is to prepare the data in a suitable format for visualization on the [Intervene](https://asntech.shinyapps.io/intervene/) platform.
+
+The script will generate plots for the entire TPME dataset.
 
 **Usage:**
 
 ```bash
 python convert_upset_format.py  -r  TPME_labels_only.txt
 ```
-
 
 ### Visualizing UpSet Plot on the Intervene Platform
 
