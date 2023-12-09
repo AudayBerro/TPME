@@ -6,6 +6,8 @@ Contains datasets and code for the paper "Error types in Transformer-based Parap
 - [Generated Paraphrases](#generated-paraphrases)
 - [Appendices](#appendices)
 - [TPME Dataset](#tpme-dataset)
+- [BERT Finetuning](#finetuned-model)
+- [UpSet Plot](#upse-plot)
 - [Possible use cases](#possible-use-cases)
 - [More information](#more-information)
 
@@ -39,6 +41,20 @@ A dataset of annotated paraphrases. The *Transformer-based Paraphrasing Model Er
 - Homonym
 - Acronym
 
+## Finetuned Model
+Within this directory, you'll find the necessary code and data utilized for fine-tuning a BERT model specifically tailored for the multi-labeling task using the TPME dataset.
+
+**Usage:**
+To initiate the fine-tuning process, simply execute the `bert_multi_labeling.py` script using the following command:
+
+```bash
+python bert_multi_labeling.py -f data.csv
+```
+This command is designed to run the script, leveraging the data.csv file as input for the multi-labeling task.
+
+## Upset Plot
+Within this directory, you'll find the necessary code and data needed to generate the UpSet plot using the Intervene platform for the TPME dataset.
+
 ## Possible use cases
 - Automatic Paraphrasing errors Detection
 - Paraphrase Generation
@@ -53,9 +69,8 @@ For more information please refer to our papar. Please also cite the following p
 
 ```sh
 @inproceedings{loremipsumdolor,
-  title={A study of errors in Transformer-based Paraphrase Generation models},
-  author={Berro, Auday and Benatallah, Boualem and Benabdeslem, Khalid},
-  booktitle={lorem ipsum dolor},
+  title={Error types in Transformer-based Paraphrasing Models: A Taxonomy, Paraphrase Annotation Model and Dataset},
+  author={Berro, Auday and Benatallah, Boualem and Gaci, Yacin and Benabdeslem, Khalid},
   year={2023}
 ```
 
