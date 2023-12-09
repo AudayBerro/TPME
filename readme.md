@@ -7,7 +7,7 @@ Contains datasets and code for the paper "Error types in Transformer-based Parap
 - [Appendices](#appendices)
 - [TPME Dataset](#tpme-dataset)
 - [BERT Finetuning](#finetuned-model)
-- [UpSet Plot](#upse-plot)
+- [UpSet Plot](#upset-plot)
 - [Possible use cases](#possible-use-cases)
 - [More information](#more-information)
 
