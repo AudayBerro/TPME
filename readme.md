@@ -41,6 +41,8 @@ A dataset of annotated paraphrases. The *Transformer-based Paraphrasing Model Er
 - Homonym
 - Acronym
 
+![Local Image](errors_list.png)
+
 ## Finetuned Model
 Within this directory, you'll find the necessary code and data utilized for fine-tuning a BERT model specifically tailored for the multi-labeling task using the TPME dataset.
 
