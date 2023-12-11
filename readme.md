@@ -18,7 +18,7 @@ This folder contains the code to extract seed utterances from raw SNIPS JSON sni
 This folder contains the generated paraphrases described in Section 2.4 of our paper. There are 22864 generated paraphrases for 598 seed utterances. The generated paraphrases are grouped into 8 datasets based on the model used to generate them and the intent of the seed utterances.
 
 # Appendices
-This folder contains two annexes mentioned in the paper:
+This folder contains two appendices documenting sampled errors:
 - Appendix A: This document contains paraphrases with errors categorized by type of error. Each paraphrase is annotated with an error label.
 - Appendix B: This document contains sample paraphrases labeled with different errors. This document illustrates the co-occurrence of several errors in the same paraphrase.
 
