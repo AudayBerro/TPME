@@ -4,6 +4,7 @@ Contains datasets and code for the paper "Error types in Transformer-based Parap
 ## Table of Contents
 - [SNIPS Folder](#snips-folder)
 - [Generated Paraphrases](#generated-paraphrases)
+- [GPT Paraphrasing](#gpt-paraphrasing)
 - [Appendices](#appendices)
 - [TPME Dataset](#tpme-dataset)
 - [BERT Finetuning](#finetuned-model)
@@ -16,6 +17,15 @@ This folder contains the code to extract seed utterances from raw SNIPS JSON sni
 
 # Generated Paraphrases
 This folder contains the generated paraphrases described in Section 2 of our paper. There are 22864 generated paraphrases for 598 seed utterances. The generated paraphrases are grouped into 8 datasets based on the model used to generate them and the intent of the seed utterances.
+
+# GPT Paraphrasing
+Within this folder, you will find the data, prompt and code used for generating paraphrases with GPT-3.5-turbo.
+
+<div align="center">
+
+![Local Image](GPTParaphrasing/build_prompt.png)
+
+</div>
 
 # Appendices
 This folder contains two appendices documenting sampled errors:
