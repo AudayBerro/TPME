@@ -15,7 +15,7 @@ Contains datasets and code for the paper "Error types in Transformer-based Parap
 This folder contains the code to extract seed utterances from raw SNIPS JSON snippets retrieved from the [SNIPS][snips] dataset (described in Section 2.2).
 
 # Generated Paraphrases
-This folder contains the generated paraphrases described in Section 2.4 of our paper. There are 22864 generated paraphrases for 598 seed utterances. The generated paraphrases are grouped into 8 datasets based on the model used to generate them and the intent of the seed utterances.
+This folder contains the generated paraphrases described in Section 2 of our paper. There are 22864 generated paraphrases for 598 seed utterances. The generated paraphrases are grouped into 8 datasets based on the model used to generate them and the intent of the seed utterances.
 
 # Appendices
 This folder contains two appendices documenting sampled errors:
@@ -50,7 +50,7 @@ A dataset of annotated paraphrases. The *Transformer-based Paraphrasing Model Er
 
 
 ## Finetuned Model
-Within this directory, you'll find the necessary code and data utilized for fine-tuning a BERT model specifically tailored for the multi-labeling task using the TPME dataset.
+Within this directory, you will find the necessary code and data utilized for fine-tuning a BERT model specifically tailored for the multi-labeling task using the TPME dataset.
 
 **Usage:**
 To initiate the fine-tuning process, simply execute the `bert_multi_labeling.py` script using the following command:
@@ -61,7 +61,7 @@ python bert_multi_labeling.py -f data.csv
 This command is designed to run the script, leveraging the data.csv file as input for the multi-labeling task.
 
 ## Upset Plot
-Within this directory, you'll find the necessary code and data needed to generate the UpSet plot using the Intervene platform for the TPME dataset.
+Within this directory, you will find the necessary code and data needed to generate the UpSet plot using the Intervene platform for the TPME dataset.
 
 ## Possible use cases
 - Automatic Paraphrasing errors Detection
@@ -73,7 +73,7 @@ Within this directory, you'll find the necessary code and data needed to generat
 ## More information
 You can contact me via audayberro (at) gmail.com
 
-For more information please refer to our papar. Please also cite the following paper if you are using the dataset in your research:
+For more information please refer to our paper. Please also cite the following paper if you are using the dataset in your research:
 
 ```sh
 @inproceedings{loremipsumdolor,
