@@ -33,7 +33,7 @@ This folder contains two appendices documenting sampled errors:
 - Appendix B: This document contains sample paraphrases labeled with different errors. This document illustrates the co-occurrence of several errors in the same paraphrase.
 
 # TPME Dataset
-A dataset of annotated paraphrases. The *Transformer-based Paraphrasing Model Errors (TPME)* dataset consists of 4790 annotated paraphrases, where the paraphrases have been labeled with a series of errors and explanations(sentence in simple natural English that justifies the error label). Each paraphrase is annotated with at least one of the following labels:
+A dataset of annotated paraphrases. The *Transformer-based Paraphrasing Model Errors (TPME)* dataset consists of 5880 annotated paraphrases, where the paraphrases have been labeled with a series of errors and explanations(sentence in simple natural English that justifies the error label). Each paraphrase is annotated with at least one of the following labels:
 - Correct
 - Semantic
 - Spelling
@@ -89,7 +89,7 @@ For more information please refer to our paper. Please also cite the following p
 @inproceedings{loremipsumdolor,
   title={Error types in Transformer-based Paraphrasing Models: A Taxonomy, Paraphrase Annotation Model and Dataset},
   author={Berro, Auday and Benatallah, Boualem and Gaci, Yacin and Benabdeslem, Khalid},
-  year={2023}
+  year={2024}
 ```
 
 [snips]: <https://github.com/snipsco/snips-nlu>
