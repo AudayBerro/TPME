@@ -58,6 +58,12 @@ A dataset of annotated paraphrases. The *Transformer-based Paraphrasing Model Er
 
 </div>
 
+<div align="center">
+
+![Local Image](Errors_samples.png)
+
+</div>
+
 
 ## Finetuned Model
 Within this directory, you will find the necessary code and data utilized for fine-tuning a BERT model specifically tailored for the multi-labeling task using the TPME dataset.
