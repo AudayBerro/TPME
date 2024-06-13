@@ -68,7 +68,7 @@ A dataset of annotated paraphrases. The *Transformer-based Paraphrasing Model Er
 ## Finetuned Model
 Within this directory, you will find the necessary code and data utilized for fine-tuning a BERT model specifically tailored for the multi-labeling task using the TPME dataset.
 
-We fine-tuned a [**bert-base-uncased**](https://huggingface.co/google-bert/bert-base-uncased) model on a multi-labeling task using a virtual machine with a Nvidia V100 GPU card in direct passthrough and 51GB of RAM. The server hosting the VM had 24 cores and was equipped with a PowerEdge T640 motherboard, 12 x 16GB RDIMM 2666MT/s Dual Rank~(192GB) memory, 2 x Intel Xeon Gold 6140 2.3 GHz, 18C/36 threads, 10.4 GT/s, 24.75 MB cache, Turbo, Hyper-Threading Technology (140 W) DDR4-2 666 memory, and 3 x NVIDIA Tesla V100 32 GB graphics processors with passive cooling.
+We fine-tuned a [**bert-base-uncased**](https://huggingface.co/google-bert/bert-base-uncased) model on a multi-labeling task using a virtual machine with a Nvidia V100 GPU card in direct passthrough and 51GB of RAM. The server hosting the VM had 24 cores and was equipped with a PowerEdge T640 motherboard, 12 x 16GB RDIMM 2666MT/s Dual Rank (192GB) memory, 2 x Intel Xeon Gold 6140 2.3 GHz, 18C/36 threads, 10.4 GT/s, 24.75 MB cache, Turbo, Hyper-Threading Technology (140 W) DDR4-2 666 memory, and 3 x NVIDIA Tesla V100 32 GB graphics processors with passive cooling.
 
 **Usage:**
 To initiate the fine-tuning process, simply execute the `bert_multi_labeling.py` script using the following command:
