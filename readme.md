@@ -31,6 +31,7 @@ Within this folder, you will find the data, prompt and code used for generating 
 This folder contains two appendices documenting sampled errors:
 - Appendix A: This document contains paraphrases with errors categorized by type of error. Each paraphrase is annotated with an error label.
 - Appendix B: This document contains sample paraphrases labeled with different errors. This document illustrates the co-occurrence of several errors in the same paraphrase.
+- **extended_definition.pdf**: This document provides detailed definitions for each of the 15 errors identified in the study, along with additional descriptions and examples that extend the conditions outlined in the table below.
 
 # TPME Dataset
 A dataset of annotated paraphrases. The *Transformer-based Paraphrasing Model Errors (TPME)* dataset consists of 5880 annotated paraphrases, where the paraphrases have been labeled with a series of errors and explanations(sentence in simple natural English that justifies the error label). Each paraphrase is annotated with at least one of the following labels:
