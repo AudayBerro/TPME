@@ -95,10 +95,17 @@ You can contact me via audayberro (at) gmail.com
 For more information please refer to our paper. Please also cite the following paper if you are using the dataset in your research:
 
 ```sh
-@inproceedings{loremipsumdolor,
-  title={Error types in Transformer-based Paraphrasing Models: A Taxonomy, Paraphrase Annotation Model and Dataset},
-  author={Berro, Auday and Benatallah, Boualem and Gaci, Yacin and Benabdeslem, Khalid},
-  year={2024}
+@inproceedings{berro-etal-2024-error,
+    title = "Error types in Transformer-based Paraphrasing Models: A Taxonomy, Paraphrase Annotation Model and Dataset",
+    author = "Berro, Auday  and
+      Benatallah, Boualem  and
+      Gaci, Yacin and
+      Benabdeslem, Khalid",
+    booktitle = "Proceedings of the 2024 Conference of the European Conference on Machine Learning and Principles  and Practice of Knowledge Discovery in Databases",
+    month = jun, September 9-13 | Vilnius
+    year = "2024",
+    address = "Vilnius, Lithuania",
+}
 ```
 
 [snips]: <https://github.com/snipsco/snips-nlu>
