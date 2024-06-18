@@ -102,7 +102,7 @@ For more information please refer to our paper. Please also cite the following p
       Gaci, Yacin and
       Benabdeslem, Khalid",
     booktitle = "Proceedings of the 2024 Conference of the European Conference on Machine Learning and Principles  and Practice of Knowledge Discovery in Databases",
-    month = jun, September 9-13 | Vilnius
+    month = September,
     year = "2024",
     address = "Vilnius, Lithuania",
 }
