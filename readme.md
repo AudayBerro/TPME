@@ -88,9 +88,12 @@ Within this directory, you will find the necessary code and data needed to gener
 - Training data for Chatbots
 - Entity recognition
 
+## 📃 License
+For more information see [LICENSE](https://github.com/AudayBerro/TPME/blob/master/LICENSE).
+
 
 ## More information
-You can contact me via audayberro (at) gmail.com
+📫 You can contact me via audayberro (at) gmail.com
 
 For more information please refer to our paper. Please also cite the following paper if you are using the dataset in your research:
 
