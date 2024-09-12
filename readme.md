@@ -1,5 +1,7 @@
 # About
-Contains datasets and code for the paper "Error types in Transformer-based Paraphrasing Models: A Taxonomy, Paraphrase Annotation Model and Dataset". 
+Contains datasets and code for the paper "Error types in Transformer-based Paraphrasing Models: A Taxonomy, Paraphrase Annotation Model and Dataset".
+
+🎉 Accepted @ [ECML-PKDD 2024](https://ecmlpkdd.org/2024/)
 
 ## Table of Contents
 - [SNIPS Folder](#snips-folder)
