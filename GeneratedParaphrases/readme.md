@@ -18,3 +18,5 @@ This folder contains raw JSON files retrieved from the  [SNIPS][snips] github re
 | T5_GW | *GetWeather* | Paraphrases generated with the fine-tuned T5 model | 2950 |
 | PROT_BR | *BookRestaurant* | Paraphrases generated with the fine-tuned T5 model | 3000 |
 | PROT_GW | *GetWeather* | Paraphrases generated with the fine-tuned T5 model | 2970 |
+| GPT_BR | *BookRestaurant* | Paraphrases generated with GPT-turbo 3.5 | 1003 |
+| GPT_GW | *GetWeather* | Paraphrases generated with GPT-turbo 3.5 | 1005 |
